@@ -1,2 +1,2 @@
 # E-TCdemo
-# my first gihub repo
+# my first github repo
